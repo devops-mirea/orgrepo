@@ -1,2 +1,3 @@
-# orgrepo
-MIREA organisation repository
+# Первая практика - DevOps МИРЭА
+
+Добро пожаловать в проект!
